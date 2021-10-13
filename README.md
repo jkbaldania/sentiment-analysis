@@ -8,7 +8,7 @@ curl https://flask-service.o6cp6h5btngdi.us-west-2.cs.amazonlightsail.com/getSen
 
 Replace the sentence with any german sentence to get the json response indicating the sentiment of the sentence ("negative", "positive" or "neutral").
 
-## Deploy in local machine
+## Deploy in local machine (Create image and run container)
 * Clone this github repo.
 * Make sure to have Docker installed in the machine.
 * In cmd, change the directory to the location where "service.py" file is located.
